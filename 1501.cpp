@@ -4,7 +4,8 @@ using namespace std;
 /*
   fact!=1*2*3...*fact
   solution=(n,2*n..fact) + (n*n, 2*n*n)+..
-  formula=( (fact/n) +(fact/n*n) )
+  formula=( (fact/n) +(fact/n*n) ) this is legendere formula
+*/
 int main()
 {
     int fact,n;

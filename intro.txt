@@ -28,3 +28,6 @@ else
 It can be calculate in o(n) time using DP, to solve it in o(n) time:
 {1,1} to power n =f(n+1), f(n)
 {1,0}             f(n),  f(n-1)
+
+// Trivia
+a^n can be calculated in o(logN) time

@@ -56,3 +56,8 @@ int dow(int y, int m, int d)
 // Magic square
 n any magic square, the first number i.e. 1 is stored at position (n/2, n-1). Let this position be (i,j). The next number is stored at position (i-1, j+1) where we can consider each row & column as circular array i.e. they wrap around.
 if position is already filled, decrement j by 2 and increment i by 1
+
+int bit1 : 1;
+int bit3 : 4;
+int bit4 : 4;
+defines bit field

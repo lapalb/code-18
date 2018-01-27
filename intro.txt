@@ -69,3 +69,6 @@ Horner’s method can be used to evaluate polynomial in O(n) time. To understand
 int gcd(int a, int b) {
     return b == 0 ? a : gcd(b, a % b);
 }
+
+// Trailing zero in factorial of number
+count 5 in its factorial

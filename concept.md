@@ -24,6 +24,7 @@ if(y==0)
 return 0
 else
 mul(x,-y)
+
 ---
 
 ####  Fibonacci number
@@ -31,6 +32,7 @@ mul(x,-y)
 It can be calculate in o(n) time using DP, to solve it in o(n) time:
 {1,1} to power n =f(n+1), f(n)
 {1,0}             f(n),  f(n-1)
+
 ---
 
 #### Trivia
@@ -65,6 +67,7 @@ int dow(int y, int m, int d)
 ---
 
 #### Magic square
+
 n any magic square, the first number i.e. 1 is stored at position (n/2, n-1). Let this position be (i,j). The next number is stored at position (i-1, j+1) where we can consider each row & column as circular array i.e. they wrap around.
 if position is already filled, decrement j by 2 and increment i by 1
 
@@ -77,6 +80,7 @@ defines bit field
 
 #### Horner method of polynomial evaluation
 Horner’s method can be used to evaluate polynomial in O(n) time. To understand the method, let us consider the example of 2x3 – 6x2 + 2x – 1. The polynomial can be evaluated as ((2x – 6)x + 2)x – 1. The idea is to initialize result as coefficient of xn which is 2 in this case, repeatedly multiply result with x and add next coefficient to result. Finally return result.
+
 ---
 
 #### GCD Calculation
@@ -92,6 +96,7 @@ int gcd(int a, int b)
 count 5 in its factorial
 //Checking fibonacci
 A number is Fibonacci if and only if one or both of (5*n2 + 4) or (5*n2 – 4) is a perfect square
+
 ---
 #### sprintf()
 int sprintf ( char * str, const char * format, ... );

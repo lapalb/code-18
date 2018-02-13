@@ -2,16 +2,18 @@
    * n%3== 0 ? return true: return false
    * (Sum of digits)%3==0 :return true: return false
    * If (count of odd set bit - count of even set bit)%3 == 0 ? return true: return false'
-----
+--
 
 #### Fast Multiplication
 * Multiply by 7: x>>3 -x
 * Multiply by 9: x>>3 +x
+--
 
 #### Lucky Number
 > A number is lucky if it is not discarded if we are on a discard mission of every nth number where n ε(2,3,4...)
 check if it discarded after each pass and next position is calculated via
 `next_position -= next_position/counter;`
+--
 
 #### Multiplying two number without product or loop
 Use recursion
@@ -21,16 +23,19 @@ x+mul(x,y-1)
 if(y==0)
 return 0
 else
--mul(x,-y)
+mul(x,-y)
+--
 
 ####  Fibonacci number
 0,1,1,2,3
 It can be calculate in o(n) time using DP, to solve it in o(n) time:
 {1,1} to power n =f(n+1), f(n)
 {1,0}             f(n),  f(n-1)
+--
 
 #### Trivia
 > a^n can be calculated in o(logN) time
+--
 
 #### Generate 8 out of 1,2,3
 ```
@@ -43,7 +48,7 @@ f(n)= 2+ f(n-2)
 f(n)= 3+f(n-3)
 }
 ```
-
+--
 #### Sophie Germain prime
 > A prime number p is called a sophie prime number if 2p+1 is also a prime number
 

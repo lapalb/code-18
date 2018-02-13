@@ -2,7 +2,7 @@
    * n%3== 0 ? return true: return false
    * (Sum of digits)%3==0 :return true: return false
    * If (count of odd set bit - count of even set bit)%3 == 0 ? return true: return false'
---
+---
 
 #### Fast Multiplication
 * Multiply by 7: x>>3 -x

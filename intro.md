@@ -74,3 +74,7 @@ int gcd(int a, int b) {
 count 5 in its factorial
 //Checking fibonacci
 A number is Fibonacci if and only if one or both of (5*n2 + 4) or (5*n2 – 4) is a perfect square
+
+//sprintf()
+int sprintf ( char * str, const char * format, ... );
+Write formatted data to string

@@ -45,3 +45,5 @@
   1. Wear one’s heart on one’s sleeve: To make your feelings and opinions obvious to other people.
   1. In apple pie order: Very well organized
   1. To strain every nerve: To try extremely hard to do something
+  1. A wild goose chase: Wasting time looking for something that you are not going to find.
+  1. Cry over spilt milk: Complaining about a loss or failure from the past.

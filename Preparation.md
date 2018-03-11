@@ -41,3 +41,7 @@
   1. Hear it on grapevine: To hear rumors about something or someone.
   1. Jump the bandwagon: To join a popular activity or trend
   1. Eat humble pie: To apologize humbly
+  1. To play fast and loose: To act in an unreliable way
+  1. Wear one’s heart on one’s sleeve: To make your feelings and opinions obvious to other people.
+  1. In apple pie order: Very well organized
+  1. To strain every nerve: To try extremely hard to do something

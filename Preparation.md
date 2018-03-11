@@ -21,3 +21,23 @@
   1. Out and Out: In Every Respect
   1. Blow his own trumpet: Aryan
   1. Play the gallery: to perform in a manner that will get the strong approval
+  1. plough a lone/lonely furrow : to do something alone 
+  1. Very different about: Lack confidence
+  1. gift horse in the mouth: Find value in gift
+  1. Go off at a tangent: Start discussing something else
+  1. For a song: cheap
+  1. What is sauce for the goose is sauce for the gander: Same
+  1. Stalwart: Dependable person
+  1. Take something lying down : To show no reaction
+  1. Took to his heels : Run away
+  1. Struck several bad patches: Had many professional difficulties.
+  1. A chip off the old block: Similar to father
+  1. The bare bones: Main Points
+  1. Shoestring budget:Characterized by a small amount of money.
+  1. Once in a blue moon: Rare event
+  1. Chip on your shoulder: When someone is upset about something that happened a while ago.
+  1. Come hell or high water: No matter any diificulty
+  1. Golden handshake:A big amount of money given to a person when he/she leaves a company or retires
+  1. Hear it on grapevine: To hear rumors about something or someone.
+  1. Jump the bandwagon: To join a popular activity or trend
+  1. Eat humble pie: To apologize humbly

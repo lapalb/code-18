@@ -43,5 +43,5 @@ vector<string> genIp(string s)
                 }
             }
         }
-        return res;
+        return res; 
 }

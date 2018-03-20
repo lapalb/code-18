@@ -1,2 +1,2 @@
 # code-18
-Few c++ implementation
+> Few C++ implementation of Geeks for Geek Code

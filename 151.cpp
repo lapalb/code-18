@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define rep(i,a,b) for(int i=a;i<b;i++)
-int minm(int a, int b, int c){ return min(a, min(b,c));}
+int minm(int a, int b, int c){ return min(a, min(b,c));} 
 int edit(string s1,string s2, int l1,int l2)
 {
     int a[l1+1][l2+1];

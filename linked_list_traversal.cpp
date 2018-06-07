@@ -13,6 +13,12 @@ node(int x)
     next=nullptr;
 }
 };
+void prr(node *t)
+{
+    if(t->next==nullptr){cout<<t->data<<"\t"; return;}
+    prr(t->next);
+    cout<<t->data<<"\t";
+}
 void pr(node * t)
 {
     if(t==nullptr) return;
@@ -34,5 +40,6 @@ int main()
        t=t->next;
    }
    cout<<t->data<<"\n";
-   pr(head);
+   pr(head);cout<<"\n";
+   prr(head);
 }

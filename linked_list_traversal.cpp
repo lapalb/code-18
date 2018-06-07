@@ -13,6 +13,12 @@ node(int x)
     next=nullptr;
 }
 };
+void pr(node * t)
+{
+    if(t==nullptr) return;
+    cout<<t->data<<"\t";
+    pr(t->next);
+}
 int main()
 {
    node * head = new node(10);
@@ -27,5 +33,6 @@ int main()
        cout<<t->data<<"\t";
        t=t->next;
    }
-   cout<<t->data<<"\t";
+   cout<<t->data<<"\n";
+   pr(head);
 }

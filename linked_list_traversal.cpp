@@ -13,6 +13,17 @@ node(int x)
     next=nullptr;
 }
 };
+node * head;
+void rev(node * t)
+{
+
+    if(t->next==nullptr){head=t; return;}
+    rev(t->next);
+    node * q=t->next;
+    q->next=t;
+    t->next=nullptr;
+
+}
 void prr(node *t)
 {
     if(t->next==nullptr){cout<<t->data<<"\t"; return;}
@@ -27,7 +38,7 @@ void pr(node * t)
 }
 int main()
 {
-   node * head = new node(10);
+   head = new node(10);
    head->next  = new node(20);
    head->next->next  = new node(30);
    head->next->next->next  = new node(40);
@@ -41,5 +52,8 @@ int main()
    }
    cout<<t->data<<"\n";
    pr(head);cout<<"\n";
-   prr(head);
+   prr(head);cout<<"\nAfter Reversal : ";
+
+   rev(head);
+   pr(head);
 }
